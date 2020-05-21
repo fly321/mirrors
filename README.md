@@ -1,9 +1,10 @@
+![](https://em.wattpad.com/9756eb1cb3cffc14bdc5ada1b603e1a692b5fe49/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f397a5f5f59704f52386b706731413d3d2d31352e313464643630643766633739653935373935323439373136333831312e6a7067)
 # 国内开源镜像站点汇总 
 ## 一、站点版
 ### （一）、企业站
 1. 网易：[https://mirrors.163.com/](https://mirrors.163.com/)
 2. 搜狐：[http://mirrors.sohu.com/](http://mirrors.sohu.com/)（Ubuntu旧发行版同步被冻结，不同步Ubuntu新发行版，Ubuntu源同步正常）
-3. 阿里云：[https://opsx.alibaba.com/mirror](https://opsx.alibaba.com/mirror)（部分镜像同步延迟超过1天）
+3. 阿里云：[https://developer.aliyun.com/mirror/](https://developer.aliyun.com/mirror/)（部分镜像同步延迟超过1天）
 4. 首都在线科技股份有限公司（英文名Capital Online Data Service）：[http://mirrors.yun-idc.com/](http://mirrors.yun-idc.com/)
 5. 华为云：[https://mirrors.huaweicloud.com/](https://mirrors.huaweicloud.com/)
 6. 腾讯云：[https://mirrors.cloud.tencent.com/](https://mirrors.cloud.tencent.com/)
